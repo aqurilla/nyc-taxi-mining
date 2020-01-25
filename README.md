@@ -13,12 +13,12 @@ The main outcomes for this analysis were:
 1. Obtained and cleaned the data
 
 2. Performed exploratory data analysis to understand relevant trip metrics
-a. Modeled the trip distance distribution as log-normal
-b. Analyzed fare variations in trips originating from and terminating at NYC airports
+- Modeled the trip distance distribution as log-normal
+- Analyzed fare variations in trips originating from and terminating at NYC airports
 
-3. Built a predictive model for the tip amount as a percentage of the total fare -
-a. Performed feature engineering for including other possible relevant metrics while building the model
-b. Developed a Random Forest predictive model for the tip amount as a percentage of total fare, obtaining an R<sup>2</sup> = 0.89
+3. Built a predictive model for the tip amount as a percentage of the total fare
+- Performed feature engineering for including other possible relevant metrics while building the model
+- Developed a Random Forest predictive model for the tip amount as a percentage of total fare, obtaining an R<sup>2</sup> = 0.89
 
 ## Instructions
 
